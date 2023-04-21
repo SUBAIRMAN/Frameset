@@ -1,0 +1,7 @@
+<frameset rows=40%,*>
+<frame src="./atas.html">
+<frameset cols=20%,*>
+<frame src="./file:///D:/UMI/MATKUL/WEB/Topik%206/L4/Menu.html">
+<frame src="./file:///D:/UMI/MATKUL/WEB/Topik%206/L4/Id%20card%20UMI.html.png">
+</frameset>
+</frameset>

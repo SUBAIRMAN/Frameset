@@ -1,0 +1,7 @@
+<frameset rows=30%,*>
+<frame src="D:\UMI\MATKUL\WEB\Topik 6\L0\atas.html">
+<frameset cols=20%,*>
+<frame src="D:\UMI\MATKUL\WEB\Topik 6\L0\menu.html">
+<frame src="D:\UMI\MATKUL\WEB\Topik 6\L0\card.png">
+</frameset>
+</frameset>

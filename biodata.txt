@@ -1,0 +1,8 @@
+ <html>
+<center>
+<h1>BIODATA SAYA
+<hr>
+<table>
+<tr><td>Nama<td>: Subairman
+<tr><td>Alamat<td>: Jl.Muh.Paleo No.19
+<tr><td>Telp<td>: 081 357 082 595

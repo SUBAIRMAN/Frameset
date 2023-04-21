@@ -1,0 +1,16 @@
+ <html>
+    <head>
+        <title>My.Galery</title>
+    </head>
+    <body align="center">
+        <img src="D:\UMI\MATKUL\WEB\Topik 6\Frameset.Subairman.13020210310.D1\SD.jpg"200px">
+        <br>
+        <img src="./fs2/smp.png" height="200px">
+        <br>
+        <img src="./fs2/sma.png" height="200px">
+        <br>
+        <img src="./fs2/S1.jpg" height="200px">
+        <br>
+   
+    </body>
+</html>

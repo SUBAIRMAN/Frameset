@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>M e n u</title>
+</head>
+<body bgcolor="#ffff00">
+   <h3 align="center">M e n u</h3>
+   <ul>
+      <li><a href="38-selamat.html" target="konten">Selamat Datang</a></li>
+      <li><a href="D:\UMI\MATKUL\WEB\Topik 6\Frameset.Subairman.13020210310.D1\biodata.html" target="konten">Biodata</a></li>
+      <li><a href="./SD.jpg" target="konten">SD</a></li>
+      <li><a href="./SMP.png" target="konten">SMP</a></li>
+      <li><a href="./SMA.png" target="konten">SMA</a></li>
+      <li><a href="./S1.jpg" target="konten">S1</a></li>
+   </ul>
+   </LI>
+<a href="./galeri.html" target="konten"><li>GALERI</Li></a>
+<li>Link Media Sosial
+    <ol type="I">
+        <li> <a href="https://www.facebook.com/" target="https://www.facebook.com/"><img src="./facebook.png" height="30px"></li>
+               <li><a href="https://www.instagram.com/" target="https://www.instagram.com/"><img src="./600px-Instagram_icon.png" height="30px"></li>
+               <li><a href="https://mail.google.com/" target="https://mail.google.com/"><img src="./gmail.png" height="30px"></li>
+               <li><a href="https://www.google.com/" target="https://www.google.com/"><img src="./google.png" height="30px"></li>
+    </ol>
+</LI>
+</OL>
+</font>
+Membuat Frameset Subair.13020210310.D!
+</body>
+</html>
